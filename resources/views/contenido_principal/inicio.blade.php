@@ -43,7 +43,7 @@
                 </div>
             </div>
         </div>
-
+<!--
         <div id="fh5co-couple-story">
             <div class="container">
                 <div class="row">
@@ -111,5 +111,6 @@
                 </div>
             </div>
         </div>
+    -->
 
         @endsection

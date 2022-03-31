@@ -62,7 +62,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xs-2">
-                        <div id="fh5co-logo"><a href="">Fantasy</a></div>
+                        <div id="fh5co-logo"><a href="">Rehilete</a></div>
                     </div>
                     <div class="col-xs-10 text-right menu-1">
                         <ul>
@@ -91,20 +91,14 @@
             <div class="container text-center">
                 <div class="row copyright">
                     <div class="col-md-12 text-center">
-                        <h4>Contact Information</h4>
+                        <h4>Informacion de contacto</h4>
                         <ul class="fh5co-footer-links">
-                            <li>198 West 21th Street, <br> Suite 721 New York NY 10016</li>
-                            <li><a href="/">+ 1235 2355 98</a></li>
-                            <li><a href="/">7397@ittg.com</a></li>
-                            <li><a href="/">Zincri-Jhoana</a></li>
+                            <li><a href="/">961 278 9796</a></li>
                         </ul>
                     </div>
 
                 </div>
                 <div class="col-md-12 text-center">
-                    <p>
-                        <small class="block">&copy; Frameworks Class/Jhoana/Zincri.</small>
-                    </p>
                     <p>
                         <ul class="fh5co-social-icons">
                             <li><a href="#"><i class="icon-twitter2"></i></a></li>

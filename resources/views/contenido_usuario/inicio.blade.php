@@ -10,9 +10,7 @@
             <div class="col-md-8 col-md-offset-2 text-center">
                 <div class="display-t">
                     <div class="display-tc animate-box" data-animate-effect="fadeIn">
-                        <h1> Real Fantasy Events </h1>
-                        <h2>Los eventos son efímeros, las emociones perduran</h2>
-                        <div class="simply-countdown simply-countdown-one"></div>
+                        
                     </div>
                 </div>
             </div>
@@ -34,12 +32,15 @@
                         <h2>¿Quienes Somos?</h2>
                     </div>
                     <div class="about-us-content">
-                        <p>Real Fantasy Event es la empresa líder para la organización de eventos en México. Durante más de 20 años, nos hemos armado con las más modernas herramientas y con un staff de profesionales en diversas disciplinas, asi como event planners con certificación CMS (Certified Meetings Specialist). Esto nos permite crear, organizar y orquestrar eventos de cualquier magnitud, con la calidad y eficiencia que nuestros clientes merecen..</p>
+                        <!--
+						<p>Real Fantasy Event es la empresa líder para la organización de eventos en México. Durante más de 20 años, nos hemos armado con las más modernas herramientas y con un staff de profesionales en diversas disciplinas, asi como event planners con certificación CMS (Certified Meetings Specialist). Esto nos permite crear, organizar y orquestrar eventos de cualquier magnitud, con la calidad y eficiencia que nuestros clientes merecen..</p>
+						-->
                     </div>
                 </div>
             </div>
 
 <div id="fh5co-couple-story">
+<!--
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading animate-box">
@@ -57,7 +58,7 @@
 									<span class="date">December 25, 2018</span>
 								</div>
 								<div class="timeline-body">
-									<p>Solo queremos dar las gracias a Fantasy Real Events por estar con nosotros en el inicio de esta nueva aventura.</p>
+										<p>Solo queremos dar las gracias a Fantasy Real Events por estar con nosotros en el inicio de esta nueva aventura.</p>
 								</div>
 							</div>
 						</li>
@@ -103,5 +104,5 @@
 			</div>
 		</div>
 	</div>
-
+-->
 @endsection
