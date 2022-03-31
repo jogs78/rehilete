@@ -19,12 +19,12 @@
 <div class="fh5co-section">
     <div class="container">
         <div class="fh5co-contact-info col-lg-7">
-            <h3>Contact Information</h3>
+            <h3>Informatición de contacot</h3>
             <ul>
-                <li class="address">Av.Costa rica , <br> Manz 01 Lote 39, Col Tuxtla Chico</li>
-                <li class="phone">Tel:  961 225 0380</li>
-                <li class="email">Email: 7397@ittg.com</a></li>
-                <li class="url">Create by Zincri Mendoza & Jhoana Dominguez.com</li>
+                <li class="address">Prolongación, 5 de Febrero<br>Barrio San Vicente, CP 29160 Chiapa de Corzo, Chis.</li>
+                <li class="phone">Tel:  961 278 9869</li>
+<!--                <li class="email">Email: 7397@ittg.com</a></li>-->
+
             </ul>
         </div>
 
